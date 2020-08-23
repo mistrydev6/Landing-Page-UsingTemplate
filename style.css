@@ -1,0 +1,15 @@
+.getBig{
+	transition: all 1s;
+}
+
+.getBig:hover{
+	transform: scale(1.1);
+}
+
+button{
+	border-radius: 300px;
+}
+
+.buffer{
+	height: 1rem;
+}
